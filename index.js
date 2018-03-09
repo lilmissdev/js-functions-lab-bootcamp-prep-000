@@ -1,3 +1,6 @@
+var name = "Zack"
+var holiday = "humpday"
+
 function happyHolidays() {
   return "Happy holidays!"
 }
